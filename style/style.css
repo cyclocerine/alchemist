@@ -190,10 +190,10 @@ body {
 }
 #paragraf{
     position: absolute;
-    top: 58%;
-    transform: translateY(-50%);
-    font-size: 24px;
-    font-family: Flow;
+    top: 55%;
+    transform: translatey(-50%);
+    font-size: 12px;
+    font-family: Nuito;
 }
 
 .about {
