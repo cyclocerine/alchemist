@@ -1,7 +1,24 @@
 @font-face {
     font-family: Freight;
-    src: url(style/Freight.otf);
+    src: url(/file/font/Freight.otf);
 }
+@font-face {
+    font-family: Flow;
+    src: url(/file/font/Flow_Circular/FlowCircular-Regular.ttf);
+}
+@font-face {
+    font-family: Akira;
+    src: url(/file/font/Akira.otf);
+}
+@font-face{
+    font-family: FreeHand;
+    src: url(/file/font/Freehand/Freehand-Regular.ttf);
+}
+@font-face{
+    font-family: Nuito;
+    src: url(/file/font/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf);
+}
+
 /* Loading style */
 @keyframes ldio-qmbwk2lz8dr {
     0% {
@@ -168,7 +185,15 @@ body {
     top: 50%;
     transform: translateY(-50%);
     font-size: 4em;
+    font-family: Freight;
     color: white !important;
+}
+#paragraf{
+    position: absolute;
+    top: 58%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    font-family: Flow;
 }
 
 .about {
