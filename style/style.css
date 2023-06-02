@@ -197,7 +197,7 @@ body {
 }
 
 .about {
-    background-color: rgb(126, 188, 224);;
+    background-color: rgb(38, 235, 97);;
 }
 
 .about .container .row .col {
@@ -222,18 +222,18 @@ body {
     }
   }
 .event {
-    background-color: rgb(22, 69, 97);
+    background-color: rgb(29, 230, 79);
     color: #fff;
 }
 .timeline-tempat {
-    background-color: rgb(22, 69, 97);
+    background-color: rgb(35, 226, 93);
     color: #fff;
 }
 
 /* buat timeline */
 .timeline {
     position: relative;
-    background: rgb(22, 69, 97);
+    background: rgb(15, 236, 100);
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -248,7 +248,7 @@ body {
     top: 0;
     left: 50%;
     margin-left: -2px;
-    border-right: 2px dashed #4b546f;
+    border-right: 2px dashed rgb(26,35,58);
     height: 100%;
     display: block;
 }
@@ -264,8 +264,9 @@ body {
     right: 50%;
     top: 15px;
     text-align: right;
+    font-family: Nuito;
     margin-right: 20px;
-    color: #bcd0f7;
+    color: #1a233a;
     font-size: 1.5rem;
 }
 
@@ -469,7 +470,7 @@ body {
 
 /* sponsor */
 .sponsor {
-    background-color: rgb(22, 69, 97);
+    background-color: rgb(34, 240, 113);
     color: #fff;
 }
 
